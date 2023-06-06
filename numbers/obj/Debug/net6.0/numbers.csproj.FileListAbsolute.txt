@@ -1,0 +1,15 @@
+F:\programming\c#\freeCodeCamp\numbers\bin\Debug\net6.0\numbers.exe
+F:\programming\c#\freeCodeCamp\numbers\bin\Debug\net6.0\numbers.deps.json
+F:\programming\c#\freeCodeCamp\numbers\bin\Debug\net6.0\numbers.runtimeconfig.json
+F:\programming\c#\freeCodeCamp\numbers\bin\Debug\net6.0\numbers.dll
+F:\programming\c#\freeCodeCamp\numbers\bin\Debug\net6.0\numbers.pdb
+F:\programming\c#\freeCodeCamp\numbers\obj\Debug\net6.0\numbers.csproj.AssemblyReference.cache
+F:\programming\c#\freeCodeCamp\numbers\obj\Debug\net6.0\numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\c#\freeCodeCamp\numbers\obj\Debug\net6.0\numbers.AssemblyInfoInputs.cache
+F:\programming\c#\freeCodeCamp\numbers\obj\Debug\net6.0\numbers.AssemblyInfo.cs
+F:\programming\c#\freeCodeCamp\numbers\obj\Debug\net6.0\numbers.csproj.CoreCompileInputs.cache
+F:\programming\c#\freeCodeCamp\numbers\obj\Debug\net6.0\numbers.dll
+F:\programming\c#\freeCodeCamp\numbers\obj\Debug\net6.0\refint\numbers.dll
+F:\programming\c#\freeCodeCamp\numbers\obj\Debug\net6.0\numbers.pdb
+F:\programming\c#\freeCodeCamp\numbers\obj\Debug\net6.0\numbers.genruntimeconfig.cache
+F:\programming\c#\freeCodeCamp\numbers\obj\Debug\net6.0\ref\numbers.dll
