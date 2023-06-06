@@ -1,0 +1,15 @@
+F:\programming\c#\freeCodeCamp\madLibGame\bin\Debug\net6.0\madLibGame.exe
+F:\programming\c#\freeCodeCamp\madLibGame\bin\Debug\net6.0\madLibGame.deps.json
+F:\programming\c#\freeCodeCamp\madLibGame\bin\Debug\net6.0\madLibGame.runtimeconfig.json
+F:\programming\c#\freeCodeCamp\madLibGame\bin\Debug\net6.0\madLibGame.dll
+F:\programming\c#\freeCodeCamp\madLibGame\bin\Debug\net6.0\madLibGame.pdb
+F:\programming\c#\freeCodeCamp\madLibGame\obj\Debug\net6.0\madLibGame.csproj.AssemblyReference.cache
+F:\programming\c#\freeCodeCamp\madLibGame\obj\Debug\net6.0\madLibGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\c#\freeCodeCamp\madLibGame\obj\Debug\net6.0\madLibGame.AssemblyInfoInputs.cache
+F:\programming\c#\freeCodeCamp\madLibGame\obj\Debug\net6.0\madLibGame.AssemblyInfo.cs
+F:\programming\c#\freeCodeCamp\madLibGame\obj\Debug\net6.0\madLibGame.csproj.CoreCompileInputs.cache
+F:\programming\c#\freeCodeCamp\madLibGame\obj\Debug\net6.0\madLibGame.dll
+F:\programming\c#\freeCodeCamp\madLibGame\obj\Debug\net6.0\refint\madLibGame.dll
+F:\programming\c#\freeCodeCamp\madLibGame\obj\Debug\net6.0\madLibGame.pdb
+F:\programming\c#\freeCodeCamp\madLibGame\obj\Debug\net6.0\madLibGame.genruntimeconfig.cache
+F:\programming\c#\freeCodeCamp\madLibGame\obj\Debug\net6.0\ref\madLibGame.dll

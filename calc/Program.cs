@@ -10,11 +10,12 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            // simple calulator +;-;*;//
             Console.Write("Write first number: ");
-            int number_1 = Convert.ToInt32(Console.ReadLine());
+            double number_1 = Convert.ToDouble(Console.ReadLine());
 
             Console.Write("Write second number: ");
-            int number_2 = Convert.ToInt32(Console.ReadLine());
+            double number_2 = Convert.ToDouble(Console.ReadLine());
 
             Console.Write("Choose operation ( + | - | * | // ): ");
             var operation = Console.ReadLine();
