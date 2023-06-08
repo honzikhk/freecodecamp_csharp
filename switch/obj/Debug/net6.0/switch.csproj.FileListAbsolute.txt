@@ -1,0 +1,15 @@
+F:\programming\c#\freeCodeCamp\switch\bin\Debug\net6.0\switch.exe
+F:\programming\c#\freeCodeCamp\switch\bin\Debug\net6.0\switch.deps.json
+F:\programming\c#\freeCodeCamp\switch\bin\Debug\net6.0\switch.runtimeconfig.json
+F:\programming\c#\freeCodeCamp\switch\bin\Debug\net6.0\switch.dll
+F:\programming\c#\freeCodeCamp\switch\bin\Debug\net6.0\switch.pdb
+F:\programming\c#\freeCodeCamp\switch\obj\Debug\net6.0\switch.csproj.AssemblyReference.cache
+F:\programming\c#\freeCodeCamp\switch\obj\Debug\net6.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\c#\freeCodeCamp\switch\obj\Debug\net6.0\switch.AssemblyInfoInputs.cache
+F:\programming\c#\freeCodeCamp\switch\obj\Debug\net6.0\switch.AssemblyInfo.cs
+F:\programming\c#\freeCodeCamp\switch\obj\Debug\net6.0\switch.csproj.CoreCompileInputs.cache
+F:\programming\c#\freeCodeCamp\switch\obj\Debug\net6.0\switch.dll
+F:\programming\c#\freeCodeCamp\switch\obj\Debug\net6.0\refint\switch.dll
+F:\programming\c#\freeCodeCamp\switch\obj\Debug\net6.0\switch.pdb
+F:\programming\c#\freeCodeCamp\switch\obj\Debug\net6.0\switch.genruntimeconfig.cache
+F:\programming\c#\freeCodeCamp\switch\obj\Debug\net6.0\ref\switch.dll

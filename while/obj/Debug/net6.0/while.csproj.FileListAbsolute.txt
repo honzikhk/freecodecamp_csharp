@@ -1,0 +1,15 @@
+F:\programming\c#\freeCodeCamp\while\bin\Debug\net6.0\while.exe
+F:\programming\c#\freeCodeCamp\while\bin\Debug\net6.0\while.deps.json
+F:\programming\c#\freeCodeCamp\while\bin\Debug\net6.0\while.runtimeconfig.json
+F:\programming\c#\freeCodeCamp\while\bin\Debug\net6.0\while.dll
+F:\programming\c#\freeCodeCamp\while\bin\Debug\net6.0\while.pdb
+F:\programming\c#\freeCodeCamp\while\obj\Debug\net6.0\while.csproj.AssemblyReference.cache
+F:\programming\c#\freeCodeCamp\while\obj\Debug\net6.0\while.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\c#\freeCodeCamp\while\obj\Debug\net6.0\while.AssemblyInfoInputs.cache
+F:\programming\c#\freeCodeCamp\while\obj\Debug\net6.0\while.AssemblyInfo.cs
+F:\programming\c#\freeCodeCamp\while\obj\Debug\net6.0\while.csproj.CoreCompileInputs.cache
+F:\programming\c#\freeCodeCamp\while\obj\Debug\net6.0\while.dll
+F:\programming\c#\freeCodeCamp\while\obj\Debug\net6.0\refint\while.dll
+F:\programming\c#\freeCodeCamp\while\obj\Debug\net6.0\while.pdb
+F:\programming\c#\freeCodeCamp\while\obj\Debug\net6.0\while.genruntimeconfig.cache
+F:\programming\c#\freeCodeCamp\while\obj\Debug\net6.0\ref\while.dll

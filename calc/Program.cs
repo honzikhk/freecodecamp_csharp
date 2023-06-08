@@ -17,21 +17,30 @@ namespace ConsoleApp1
             Console.Write("Write second number: ");
             double number_2 = Convert.ToDouble(Console.ReadLine());
 
-            Console.Write("Choose operation ( + | - | * | // ): ");
+            Console.Write("Choose operation ( + | - | * | / ): ");
             var operation = Console.ReadLine();
 
             if (operation == "+")
+            {
                 Console.WriteLine("You choose adding, so {0} {1} {2} = {3}", number_1, operation, number_2, number_1 + number_2);
-
+            }
             else if (operation == "-")
+            {
                 Console.WriteLine("You choose subtraction, so {0} {1} {2} = {3}", number_1, operation, number_2, number_1 - number_2);
-
+            }
             else if (operation == "*")
+            {
                 Console.WriteLine("You choose multiplication, so {0} {1} {2} = {3}", number_1, operation, number_2, number_1 * number_2);
-
-            else if (operation == "//")
+            }
+            else if (operation == "/")
+            { 
                 Console.WriteLine("You choose division, so {0} {1} {2} = {3}", number_1, operation, number_2, number_1 / number_2);
             Console.ReadLine();
+            }
+            else
+            {
+                Console.WriteLine("You entered a invalid operator");
+            }
         }
     }
 }

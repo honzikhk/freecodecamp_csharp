@@ -3,23 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "freeCodeCamp", "freeCodeCamp\freeCodeCamp.csproj", "{3D1AE4D1-5505-4D8A-89BF-947E4C08AC4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calc", "calc\calc.csproj", "{140A4874-A021-443E-A8D1-AC9299098AF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calc", "calc\calc.csproj", "{140A4874-A021-443E-A8D1-AC9299098AF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dataTypes", "dataTypes\dataTypes.csproj", "{2ADB79DC-F2BE-44BF-8E49-E1227BCAFC56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dataTypes", "dataTypes\dataTypes.csproj", "{2ADB79DC-F2BE-44BF-8E49-E1227BCAFC56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "listAdd", "listAdd\listAdd.csproj", "{DE5316B9-AF98-4254-8223-0CFF94A2CDD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listAdd", "listAdd\listAdd.csproj", "{DE5316B9-AF98-4254-8223-0CFF94A2CDD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "strings", "strings\strings.csproj", "{026777FC-2A54-454F-9D9A-35179BCC0026}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strings", "strings\strings.csproj", "{026777FC-2A54-454F-9D9A-35179BCC0026}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "numbers", "numbers\numbers.csproj", "{67E88DB2-5968-4A90-AD71-E73423BA3687}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numbers", "numbers\numbers.csproj", "{67E88DB2-5968-4A90-AD71-E73423BA3687}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "userInput", "userInput\userInput.csproj", "{ACA69858-4466-422F-AF7D-30762ABD7476}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "userInput", "userInput\userInput.csproj", "{ACA69858-4466-422F-AF7D-30762ABD7476}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "madLibGame", "madLibGame\madLibGame.csproj", "{55CF04C4-181A-4915-9EC3-21321880DC6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "madLibGame", "madLibGame\madLibGame.csproj", "{55CF04C4-181A-4915-9EC3-21321880DC6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "arrays", "arrays\arrays.csproj", "{8F7414A4-383F-4A05-BF88-55B5C7F4CF0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays", "arrays\arrays.csproj", "{8F7414A4-383F-4A05-BF88-55B5C7F4CF0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "methods_1", "methods\methods_1.csproj", "{BB963928-7C8D-4E36-918A-B4BD27B1C564}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mathods_2", "mathods_2\mathods_2.csproj", "{FE68A849-7CE8-455B-A396-EEE31A990487}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "methods_3", "methods_3\methods_3.csproj", "{DDEEF1BD-EFD6-464F-AA08-9ECB6AA818FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch", "switch\switch.csproj", "{1F5CCACB-E91A-458C-A31B-6E439E37BEFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while", "while\while.csproj", "{4EB4C5B9-C0C4-44AC-BE9A-919CB4021F74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,10 +35,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3D1AE4D1-5505-4D8A-89BF-947E4C08AC4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3D1AE4D1-5505-4D8A-89BF-947E4C08AC4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3D1AE4D1-5505-4D8A-89BF-947E4C08AC4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3D1AE4D1-5505-4D8A-89BF-947E4C08AC4D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{140A4874-A021-443E-A8D1-AC9299098AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{140A4874-A021-443E-A8D1-AC9299098AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{140A4874-A021-443E-A8D1-AC9299098AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -63,6 +67,26 @@ Global
 		{8F7414A4-383F-4A05-BF88-55B5C7F4CF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F7414A4-383F-4A05-BF88-55B5C7F4CF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F7414A4-383F-4A05-BF88-55B5C7F4CF0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB963928-7C8D-4E36-918A-B4BD27B1C564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB963928-7C8D-4E36-918A-B4BD27B1C564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB963928-7C8D-4E36-918A-B4BD27B1C564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB963928-7C8D-4E36-918A-B4BD27B1C564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE68A849-7CE8-455B-A396-EEE31A990487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE68A849-7CE8-455B-A396-EEE31A990487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE68A849-7CE8-455B-A396-EEE31A990487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE68A849-7CE8-455B-A396-EEE31A990487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDEEF1BD-EFD6-464F-AA08-9ECB6AA818FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDEEF1BD-EFD6-464F-AA08-9ECB6AA818FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDEEF1BD-EFD6-464F-AA08-9ECB6AA818FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDEEF1BD-EFD6-464F-AA08-9ECB6AA818FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5CCACB-E91A-458C-A31B-6E439E37BEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5CCACB-E91A-458C-A31B-6E439E37BEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5CCACB-E91A-458C-A31B-6E439E37BEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5CCACB-E91A-458C-A31B-6E439E37BEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EB4C5B9-C0C4-44AC-BE9A-919CB4021F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB4C5B9-C0C4-44AC-BE9A-919CB4021F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB4C5B9-C0C4-44AC-BE9A-919CB4021F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB4C5B9-C0C4-44AC-BE9A-919CB4021F74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
