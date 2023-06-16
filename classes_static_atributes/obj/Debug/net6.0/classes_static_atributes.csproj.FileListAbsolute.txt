@@ -1,0 +1,15 @@
+F:\programming\c#\freeCodeCamp\classes_static_atributes\bin\Debug\net6.0\classes_static_atributes.exe
+F:\programming\c#\freeCodeCamp\classes_static_atributes\bin\Debug\net6.0\classes_static_atributes.deps.json
+F:\programming\c#\freeCodeCamp\classes_static_atributes\bin\Debug\net6.0\classes_static_atributes.runtimeconfig.json
+F:\programming\c#\freeCodeCamp\classes_static_atributes\bin\Debug\net6.0\classes_static_atributes.dll
+F:\programming\c#\freeCodeCamp\classes_static_atributes\bin\Debug\net6.0\classes_static_atributes.pdb
+F:\programming\c#\freeCodeCamp\classes_static_atributes\obj\Debug\net6.0\classes_static_atributes.csproj.AssemblyReference.cache
+F:\programming\c#\freeCodeCamp\classes_static_atributes\obj\Debug\net6.0\classes_static_atributes.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\c#\freeCodeCamp\classes_static_atributes\obj\Debug\net6.0\classes_static_atributes.AssemblyInfoInputs.cache
+F:\programming\c#\freeCodeCamp\classes_static_atributes\obj\Debug\net6.0\classes_static_atributes.AssemblyInfo.cs
+F:\programming\c#\freeCodeCamp\classes_static_atributes\obj\Debug\net6.0\classes_static_atributes.csproj.CoreCompileInputs.cache
+F:\programming\c#\freeCodeCamp\classes_static_atributes\obj\Debug\net6.0\classes_static_atributes.dll
+F:\programming\c#\freeCodeCamp\classes_static_atributes\obj\Debug\net6.0\refint\classes_static_atributes.dll
+F:\programming\c#\freeCodeCamp\classes_static_atributes\obj\Debug\net6.0\classes_static_atributes.pdb
+F:\programming\c#\freeCodeCamp\classes_static_atributes\obj\Debug\net6.0\classes_static_atributes.genruntimeconfig.cache
+F:\programming\c#\freeCodeCamp\classes_static_atributes\obj\Debug\net6.0\ref\classes_static_atributes.dll

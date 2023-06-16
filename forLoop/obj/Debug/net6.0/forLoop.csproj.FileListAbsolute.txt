@@ -1,0 +1,15 @@
+F:\programming\c#\freeCodeCamp\forLoop\bin\Debug\net6.0\forLoop.exe
+F:\programming\c#\freeCodeCamp\forLoop\bin\Debug\net6.0\forLoop.deps.json
+F:\programming\c#\freeCodeCamp\forLoop\bin\Debug\net6.0\forLoop.runtimeconfig.json
+F:\programming\c#\freeCodeCamp\forLoop\bin\Debug\net6.0\forLoop.dll
+F:\programming\c#\freeCodeCamp\forLoop\bin\Debug\net6.0\forLoop.pdb
+F:\programming\c#\freeCodeCamp\forLoop\obj\Debug\net6.0\forLoop.csproj.AssemblyReference.cache
+F:\programming\c#\freeCodeCamp\forLoop\obj\Debug\net6.0\forLoop.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\c#\freeCodeCamp\forLoop\obj\Debug\net6.0\forLoop.AssemblyInfoInputs.cache
+F:\programming\c#\freeCodeCamp\forLoop\obj\Debug\net6.0\forLoop.AssemblyInfo.cs
+F:\programming\c#\freeCodeCamp\forLoop\obj\Debug\net6.0\forLoop.csproj.CoreCompileInputs.cache
+F:\programming\c#\freeCodeCamp\forLoop\obj\Debug\net6.0\forLoop.dll
+F:\programming\c#\freeCodeCamp\forLoop\obj\Debug\net6.0\refint\forLoop.dll
+F:\programming\c#\freeCodeCamp\forLoop\obj\Debug\net6.0\forLoop.pdb
+F:\programming\c#\freeCodeCamp\forLoop\obj\Debug\net6.0\forLoop.genruntimeconfig.cache
+F:\programming\c#\freeCodeCamp\forLoop\obj\Debug\net6.0\ref\forLoop.dll

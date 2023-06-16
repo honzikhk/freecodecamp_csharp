@@ -1,0 +1,15 @@
+F:\programming\c#\freeCodeCamp\getter_setter\bin\Debug\net6.0\getter_setter.exe
+F:\programming\c#\freeCodeCamp\getter_setter\bin\Debug\net6.0\getter_setter.deps.json
+F:\programming\c#\freeCodeCamp\getter_setter\bin\Debug\net6.0\getter_setter.runtimeconfig.json
+F:\programming\c#\freeCodeCamp\getter_setter\bin\Debug\net6.0\getter_setter.dll
+F:\programming\c#\freeCodeCamp\getter_setter\bin\Debug\net6.0\getter_setter.pdb
+F:\programming\c#\freeCodeCamp\getter_setter\obj\Debug\net6.0\getter_setter.csproj.AssemblyReference.cache
+F:\programming\c#\freeCodeCamp\getter_setter\obj\Debug\net6.0\getter_setter.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\c#\freeCodeCamp\getter_setter\obj\Debug\net6.0\getter_setter.AssemblyInfoInputs.cache
+F:\programming\c#\freeCodeCamp\getter_setter\obj\Debug\net6.0\getter_setter.AssemblyInfo.cs
+F:\programming\c#\freeCodeCamp\getter_setter\obj\Debug\net6.0\getter_setter.csproj.CoreCompileInputs.cache
+F:\programming\c#\freeCodeCamp\getter_setter\obj\Debug\net6.0\getter_setter.dll
+F:\programming\c#\freeCodeCamp\getter_setter\obj\Debug\net6.0\refint\getter_setter.dll
+F:\programming\c#\freeCodeCamp\getter_setter\obj\Debug\net6.0\getter_setter.pdb
+F:\programming\c#\freeCodeCamp\getter_setter\obj\Debug\net6.0\getter_setter.genruntimeconfig.cache
+F:\programming\c#\freeCodeCamp\getter_setter\obj\Debug\net6.0\ref\getter_setter.dll

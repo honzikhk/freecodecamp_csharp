@@ -1,0 +1,15 @@
+F:\programming\c#\freeCodeCamp\guessingGame\bin\Debug\net6.0\guessingGame.exe
+F:\programming\c#\freeCodeCamp\guessingGame\bin\Debug\net6.0\guessingGame.deps.json
+F:\programming\c#\freeCodeCamp\guessingGame\bin\Debug\net6.0\guessingGame.runtimeconfig.json
+F:\programming\c#\freeCodeCamp\guessingGame\bin\Debug\net6.0\guessingGame.dll
+F:\programming\c#\freeCodeCamp\guessingGame\bin\Debug\net6.0\guessingGame.pdb
+F:\programming\c#\freeCodeCamp\guessingGame\obj\Debug\net6.0\guessingGame.csproj.AssemblyReference.cache
+F:\programming\c#\freeCodeCamp\guessingGame\obj\Debug\net6.0\guessingGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\c#\freeCodeCamp\guessingGame\obj\Debug\net6.0\guessingGame.AssemblyInfoInputs.cache
+F:\programming\c#\freeCodeCamp\guessingGame\obj\Debug\net6.0\guessingGame.AssemblyInfo.cs
+F:\programming\c#\freeCodeCamp\guessingGame\obj\Debug\net6.0\guessingGame.csproj.CoreCompileInputs.cache
+F:\programming\c#\freeCodeCamp\guessingGame\obj\Debug\net6.0\guessingGame.dll
+F:\programming\c#\freeCodeCamp\guessingGame\obj\Debug\net6.0\refint\guessingGame.dll
+F:\programming\c#\freeCodeCamp\guessingGame\obj\Debug\net6.0\guessingGame.pdb
+F:\programming\c#\freeCodeCamp\guessingGame\obj\Debug\net6.0\guessingGame.genruntimeconfig.cache
+F:\programming\c#\freeCodeCamp\guessingGame\obj\Debug\net6.0\ref\guessingGame.dll

@@ -1,0 +1,15 @@
+F:\programming\c#\freeCodeCamp\classes_static_methods_and_classes\bin\Debug\net6.0\classes_static_methods_and_classes.exe
+F:\programming\c#\freeCodeCamp\classes_static_methods_and_classes\bin\Debug\net6.0\classes_static_methods_and_classes.deps.json
+F:\programming\c#\freeCodeCamp\classes_static_methods_and_classes\bin\Debug\net6.0\classes_static_methods_and_classes.runtimeconfig.json
+F:\programming\c#\freeCodeCamp\classes_static_methods_and_classes\bin\Debug\net6.0\classes_static_methods_and_classes.dll
+F:\programming\c#\freeCodeCamp\classes_static_methods_and_classes\bin\Debug\net6.0\classes_static_methods_and_classes.pdb
+F:\programming\c#\freeCodeCamp\classes_static_methods_and_classes\obj\Debug\net6.0\classes_static_methods_and_classes.csproj.AssemblyReference.cache
+F:\programming\c#\freeCodeCamp\classes_static_methods_and_classes\obj\Debug\net6.0\classes_static_methods_and_classes.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\c#\freeCodeCamp\classes_static_methods_and_classes\obj\Debug\net6.0\classes_static_methods_and_classes.AssemblyInfoInputs.cache
+F:\programming\c#\freeCodeCamp\classes_static_methods_and_classes\obj\Debug\net6.0\classes_static_methods_and_classes.AssemblyInfo.cs
+F:\programming\c#\freeCodeCamp\classes_static_methods_and_classes\obj\Debug\net6.0\classes_static_methods_and_classes.csproj.CoreCompileInputs.cache
+F:\programming\c#\freeCodeCamp\classes_static_methods_and_classes\obj\Debug\net6.0\classes_static_methods_and_classes.dll
+F:\programming\c#\freeCodeCamp\classes_static_methods_and_classes\obj\Debug\net6.0\refint\classes_static_methods_and_classes.dll
+F:\programming\c#\freeCodeCamp\classes_static_methods_and_classes\obj\Debug\net6.0\classes_static_methods_and_classes.pdb
+F:\programming\c#\freeCodeCamp\classes_static_methods_and_classes\obj\Debug\net6.0\classes_static_methods_and_classes.genruntimeconfig.cache
+F:\programming\c#\freeCodeCamp\classes_static_methods_and_classes\obj\Debug\net6.0\ref\classes_static_methods_and_classes.dll

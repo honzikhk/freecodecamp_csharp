@@ -1,0 +1,15 @@
+F:\programming\c#\freeCodeCamp\powerMethod\bin\Debug\net6.0\powerMethod.exe
+F:\programming\c#\freeCodeCamp\powerMethod\bin\Debug\net6.0\powerMethod.deps.json
+F:\programming\c#\freeCodeCamp\powerMethod\bin\Debug\net6.0\powerMethod.runtimeconfig.json
+F:\programming\c#\freeCodeCamp\powerMethod\bin\Debug\net6.0\powerMethod.dll
+F:\programming\c#\freeCodeCamp\powerMethod\bin\Debug\net6.0\powerMethod.pdb
+F:\programming\c#\freeCodeCamp\powerMethod\obj\Debug\net6.0\powerMethod.csproj.AssemblyReference.cache
+F:\programming\c#\freeCodeCamp\powerMethod\obj\Debug\net6.0\powerMethod.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\c#\freeCodeCamp\powerMethod\obj\Debug\net6.0\powerMethod.AssemblyInfoInputs.cache
+F:\programming\c#\freeCodeCamp\powerMethod\obj\Debug\net6.0\powerMethod.AssemblyInfo.cs
+F:\programming\c#\freeCodeCamp\powerMethod\obj\Debug\net6.0\powerMethod.csproj.CoreCompileInputs.cache
+F:\programming\c#\freeCodeCamp\powerMethod\obj\Debug\net6.0\powerMethod.dll
+F:\programming\c#\freeCodeCamp\powerMethod\obj\Debug\net6.0\refint\powerMethod.dll
+F:\programming\c#\freeCodeCamp\powerMethod\obj\Debug\net6.0\powerMethod.pdb
+F:\programming\c#\freeCodeCamp\powerMethod\obj\Debug\net6.0\powerMethod.genruntimeconfig.cache
+F:\programming\c#\freeCodeCamp\powerMethod\obj\Debug\net6.0\ref\powerMethod.dll

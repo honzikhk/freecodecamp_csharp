@@ -1,0 +1,15 @@
+F:\programming\c#\freeCodeCamp\classes\bin\Debug\net6.0\classes.exe
+F:\programming\c#\freeCodeCamp\classes\bin\Debug\net6.0\classes.deps.json
+F:\programming\c#\freeCodeCamp\classes\bin\Debug\net6.0\classes.runtimeconfig.json
+F:\programming\c#\freeCodeCamp\classes\bin\Debug\net6.0\classes.dll
+F:\programming\c#\freeCodeCamp\classes\bin\Debug\net6.0\classes.pdb
+F:\programming\c#\freeCodeCamp\classes\obj\Debug\net6.0\classes.csproj.AssemblyReference.cache
+F:\programming\c#\freeCodeCamp\classes\obj\Debug\net6.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\c#\freeCodeCamp\classes\obj\Debug\net6.0\classes.AssemblyInfoInputs.cache
+F:\programming\c#\freeCodeCamp\classes\obj\Debug\net6.0\classes.AssemblyInfo.cs
+F:\programming\c#\freeCodeCamp\classes\obj\Debug\net6.0\classes.csproj.CoreCompileInputs.cache
+F:\programming\c#\freeCodeCamp\classes\obj\Debug\net6.0\classes.dll
+F:\programming\c#\freeCodeCamp\classes\obj\Debug\net6.0\refint\classes.dll
+F:\programming\c#\freeCodeCamp\classes\obj\Debug\net6.0\classes.pdb
+F:\programming\c#\freeCodeCamp\classes\obj\Debug\net6.0\classes.genruntimeconfig.cache
+F:\programming\c#\freeCodeCamp\classes\obj\Debug\net6.0\ref\classes.dll

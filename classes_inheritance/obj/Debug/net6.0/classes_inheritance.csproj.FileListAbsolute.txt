@@ -1,0 +1,15 @@
+F:\programming\c#\freeCodeCamp\classes_inheritance\obj\Debug\net6.0\classes_inheritance.csproj.AssemblyReference.cache
+F:\programming\c#\freeCodeCamp\classes_inheritance\obj\Debug\net6.0\classes_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\c#\freeCodeCamp\classes_inheritance\obj\Debug\net6.0\classes_inheritance.AssemblyInfoInputs.cache
+F:\programming\c#\freeCodeCamp\classes_inheritance\obj\Debug\net6.0\classes_inheritance.AssemblyInfo.cs
+F:\programming\c#\freeCodeCamp\classes_inheritance\obj\Debug\net6.0\classes_inheritance.csproj.CoreCompileInputs.cache
+F:\programming\c#\freeCodeCamp\classes_inheritance\bin\Debug\net6.0\classes_inheritance.exe
+F:\programming\c#\freeCodeCamp\classes_inheritance\bin\Debug\net6.0\classes_inheritance.deps.json
+F:\programming\c#\freeCodeCamp\classes_inheritance\bin\Debug\net6.0\classes_inheritance.runtimeconfig.json
+F:\programming\c#\freeCodeCamp\classes_inheritance\bin\Debug\net6.0\classes_inheritance.dll
+F:\programming\c#\freeCodeCamp\classes_inheritance\bin\Debug\net6.0\classes_inheritance.pdb
+F:\programming\c#\freeCodeCamp\classes_inheritance\obj\Debug\net6.0\classes_inheritance.dll
+F:\programming\c#\freeCodeCamp\classes_inheritance\obj\Debug\net6.0\refint\classes_inheritance.dll
+F:\programming\c#\freeCodeCamp\classes_inheritance\obj\Debug\net6.0\classes_inheritance.pdb
+F:\programming\c#\freeCodeCamp\classes_inheritance\obj\Debug\net6.0\classes_inheritance.genruntimeconfig.cache
+F:\programming\c#\freeCodeCamp\classes_inheritance\obj\Debug\net6.0\ref\classes_inheritance.dll

@@ -1,0 +1,5 @@
+F:\programming\c#\freeCodeCamp\trash\obj\Debug\net6.0\trash.csproj.AssemblyReference.cache
+F:\programming\c#\freeCodeCamp\trash\obj\Debug\net6.0\trash.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\c#\freeCodeCamp\trash\obj\Debug\net6.0\trash.AssemblyInfoInputs.cache
+F:\programming\c#\freeCodeCamp\trash\obj\Debug\net6.0\trash.AssemblyInfo.cs
+F:\programming\c#\freeCodeCamp\trash\obj\Debug\net6.0\trash.csproj.CoreCompileInputs.cache
